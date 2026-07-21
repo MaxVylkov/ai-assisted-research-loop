@@ -1,13 +1,13 @@
 ---
 name: ai-assisted-research-loop
-description: Use when the user wants to structure, evaluate, or expand a scientific research idea using an AI-assisted research loop; triggers include research loop, research recipe, feasibility/no-go check, literature-to-calculation workflow, scientific planning, experiment journal, calculation journal, research memo, or Obsidian research notes. Guides Codex through hypothesis, literature check, minimal model, rough estimate, numerical calculation, systematics/backgrounds, internal review, decision, and write-up.
+description: Use when the user wants to structure, evaluate, or expand a scientific research idea using Dlan Nauki / Длань Науки, an AI-assisted research loop; triggers include Dlan Nauki, Длань Науки, research loop, research recipe, feasibility/no-go check, literature-to-calculation workflow, scientific planning, experiment journal, calculation journal, research memo, or Obsidian research notes. Guides Codex through hypothesis, literature check, minimal model, rough estimate, numerical calculation, systematics/backgrounds, internal review, decision, and write-up.
 ---
 
-# AI-Assisted Research Loop
+# Dlan Nauki
 
 ## Purpose
 
-Use this skill to turn a broad scientific idea into a reproducible research workflow. Treat AI as a controlled research assistant: it may search, summarize, calculate, critique, and draft, but it must keep assumptions, sources, uncertainty, and decisions explicit.
+Use **Dlan Nauki** / **Длань Науки** to turn a broad scientific idea into a reproducible research workflow. Treat AI as a controlled research assistant: it may search, summarize, calculate, critique, and draft, but it must keep assumptions, sources, uncertainty, and decisions explicit.
 
 ## Core Workflow
 
