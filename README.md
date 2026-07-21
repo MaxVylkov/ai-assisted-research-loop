@@ -1,8 +1,8 @@
-# AI-Assisted Research Loop
+# Dlan Nauki
 
-Turn rough scientific ideas into reproducible research plans.
+**Длань Науки** — *The Hand of Science* for turning rough scientific ideas into reproducible research plans.
 
-**AI-Assisted Research Loop** is a small reusable Codex skill for using an AI assistant as a disciplined research partner: not just to generate prose, but to structure hypotheses, check literature, build minimal models, estimate orders of magnitude, track uncertainty, critique conclusions, and produce a clean write-up.
+**Dlan Nauki** is a small reusable Codex skill for using an AI assistant as a disciplined research partner: not just to generate prose, but to structure hypotheses, check literature, build minimal models, estimate orders of magnitude, track uncertainty, critique conclusions, and produce a clean write-up.
 
 The skill guides an AI assistant through a disciplined research cycle:
 
@@ -13,6 +13,20 @@ hypothesis -> literature check -> minimal model -> rough estimate -> numerical c
 It is intended for scientific planning, feasibility checks, technical literature work, calculation notes, analytical memos, and research-oriented Markdown/Obsidian workflows.
 
 The skill is inspired by the agentic research workflow discussed in Lu et al., **"Towards end-to-end automation of AI research"**, *Nature* 651, 914-919 (2026): https://doi.org/10.1038/s41586-026-10265-5
+
+## Описание на русском
+
+**Длань Науки** — это открытый Codex skill для научной работы с ИИ. Он помогает превратить сырую исследовательскую идею в проверяемый и воспроизводимый план: сформулировать гипотезу, проверить литературу, построить минимальную модель, сделать оценку порядка величины, перейти к расчетам, разобрать систематики и фоны, критически проверить вывод и оформить результат в текст.
+
+Идея проекта простая: ИИ должен быть не просто генератором красивых абзацев, а дисциплинированным исследовательским ассистентом. Он помогает держать ход мысли под контролем: отделять результат от предположения, не забывать про источники, явно фиксировать слабые места и не завышать выводы.
+
+Кому может быть полезно:
+
+- студентам и аспирантам, которые учатся формулировать научные задачи;
+- исследователям, которые хотят быстро проверять новые идеи;
+- авторам аналитических записок, статей и докладов;
+- тем, кто ведет Obsidian/Markdown-базу знаний;
+- всем, кто хочет использовать ИИ как инструмент научной дисциплины, а не только как чат для черновиков.
 
 ## Why This Exists
 
@@ -66,6 +80,12 @@ Then start a new Codex session and ask:
 Use ai-assisted-research-loop to structure this research question.
 ```
 
+Or in Russian:
+
+```text
+Используй Длань Науки, чтобы разобрать эту исследовательскую идею.
+```
+
 ## Example Prompts
 
 ```text
@@ -82,6 +102,14 @@ Use the short mode of ai-assisted-research-loop for an early no-go check.
 
 ```text
 Apply the research loop to turn these notes into a calculation plan.
+```
+
+```text
+Прогони эту идею через Длань Науки и найди самые слабые предположения.
+```
+
+```text
+Сделай быструю feasibility/no-go проверку по Длани Науки.
 ```
 
 ## What The Assistant Will Do
